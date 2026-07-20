@@ -40,6 +40,18 @@ The repository is organized as follows:
 
 ---
 
+## 👩‍💻 Author
+
+**Arpita Bagdawat**
+
+### Connect With Me
+- LinkedIn: https://www.linkedin.com/in/arpitabagdawat-dataanalyst/
+- GitHub: https://github.com/Arpitabagdawat
+
+**6.Screenshots**
+
+![Dashboard Preview].(https://github.com/Arpitabagdawat/bollywood_celebrity_preditor/blob/main/Image.png).
+
 ## ⚙ Installation & Setup  
 
 Follow these steps to set up and run the project locally:  
