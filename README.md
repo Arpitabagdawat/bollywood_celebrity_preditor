@@ -48,7 +48,7 @@ The repository is organized as follows:
 - LinkedIn: https://www.linkedin.com/in/arpitabagdawat-dataanalyst/
 - GitHub: https://github.com/Arpitabagdawat
 
-##Screenshots**
+**Screenshots**
 
 ![Image Preview].(https://github.com/Arpitabagdawat/bollywood_celebrity_preditor/blob/main/Image.png).
 
