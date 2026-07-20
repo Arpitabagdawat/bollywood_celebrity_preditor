@@ -51,6 +51,7 @@ The repository is organized as follows:
 **Screenshots**
 
 ![Image Preview].(https://github.com/Arpitabagdawat/bollywood_celebrity_preditor/blob/main/Image.png).
+
 ![Video Preview].(https://www.linkedin.com/feed/update/urn:li:activity:7378870362471739394/).
 ## ⚙ Installation & Setup  
 
